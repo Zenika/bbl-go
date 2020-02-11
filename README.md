@@ -34,7 +34,11 @@ atari
 
 point vital
 
+3 methodes de capture : shicho, geta, double atari
+
 handicap
+
+
 
 
 
