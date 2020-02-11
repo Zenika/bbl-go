@@ -21,6 +21,9 @@ AlphaGo
 
 32 échelles de niveaux
 
+stratégie appliquée à l'entreprise:
+ref: https://fas.org/man/eprint/lai.pdf
+
 
 ## Règle
 liberté
