@@ -2,8 +2,6 @@
 
 ## Ecosystème / histoire
 
-Statistiques sur le nombre de joueurs ? Et Classement ?
-
 Ce n'est pas un jeu où l'on cherche à tuer l'adversaire, mais juste à se partager le goban et en avoir un peu mieux
 
 breve histoire
@@ -22,6 +20,8 @@ softpower en Asie
 AlphaGo
 
 32 échelles de niveaux
+
+Statistiques sur le nombre de joueurs ? Et Classement ?
 
 stratégie appliquée à l'entreprise:
 ref: https://fas.org/man/eprint/lai.pdf
