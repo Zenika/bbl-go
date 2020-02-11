@@ -21,7 +21,7 @@ AlphaGo
 
 32 échelles de niveaux
 
-Statistiques sur le nombre de joueurs ? Et Classement ?
+Statistiques sur le nombre de joueurs ? Et Classement ? Comment gagner avec 9 pierres de handicap ?
 
 stratégie appliquée à l'entreprise:
 ref: https://fas.org/man/eprint/lai.pdf
