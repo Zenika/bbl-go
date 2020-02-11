@@ -35,3 +35,8 @@ atari
 point vital
 
 handicap
+
+
+
+ref globales:
+* [wiki fr](https://fr.wikipedia.org/wiki/Go_(jeu))
