@@ -25,7 +25,10 @@ stratégie appliquée à l'entreprise:
 ref: https://fas.org/man/eprint/lai.pdf
 
 
-## Règle
+## Règle 
+
+http://jeudego.org/_php/regleGo.php
+
 liberté
 
 atari
