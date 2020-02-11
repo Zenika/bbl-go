@@ -5,7 +5,9 @@
 Ce n'est pas un jeu où l'on cherche à tuer l'adversaire, mais juste à se partager le goban et en avoir un peu mieux
 
 10⁴⁷ -> échec
+
 10⁸⁰  -> atomes dans l'univers connu
+
 10¹⁷⁰  -> nombre de jeu possible au go
 
 breve histoire
