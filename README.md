@@ -9,18 +9,24 @@ Ce n'est pas un jeu où l'on cherche à tuer l'adversaire, mais juste à se part
 10¹⁷⁰  -> nombre de jeu possible au go
 
 breve histoire
+
 softpower en Asie
 
 
 ## Unique
 
 AlphaGo
+
 32 échelles de niveaux
 
 
 ## Règle
 liberté
+
 atari
+
 2 yeux
+
 point vital
+
 handicap
