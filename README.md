@@ -5,6 +5,8 @@
 Ce n'est pas un jeu où l'on cherche à tuer l'adversaire, mais juste à se partager le goban et en avoir un peu mieux
 
 breve histoire
+historic games
+* [atomic bomb game](https://senseis.xmp.net/?AtomicBombGame)
 
 softpower en Asie
 
