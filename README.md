@@ -44,6 +44,11 @@ point vital
 
 handicap
 
+"live coding"
+* [easy capture](https://tsumego-hero.com/sets/view/117)
+* [easy life](https://tsumego-hero.com/sets/view/104)
+* [easy kill](https://tsumego-hero.com/sets/view/105)
+
 
 
 
