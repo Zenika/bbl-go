@@ -58,3 +58,4 @@ handicap
 
 ref globales:
 * [wiki fr](https://fr.wikipedia.org/wiki/Go_(jeu))
+* [online goban editor](http://goban.co/)
