@@ -26,7 +26,10 @@ Statistiques sur le nombre de joueurs ? Et Classement ? Comment gagner avec 9 pi
 stratégie appliquée à l'entreprise:
 ref: https://fas.org/man/eprint/lai.pdf
 
-trouver qq proverbes parlant
+trouver qq proverbes parlant: l'apprentissage du Go est complexe et la transmission du savoir se passe par proverbe:
+* Le coin est en or, le bord en argent, le centre est un jardin public
+* Le point vital de mon ennemi est mon point vital 
+* Si vous attaquez votre adversaire, surveillez vos arrières
 
 ## Règle 
 
