@@ -41,6 +41,16 @@ En France en 2013: 113 clubs et 1416 licenciés. On estime à 11000 le nombre de
 
 On évalue à 60 millions de joueur dont 20 millions en Chine
 
+### échelle de niveau
+
+C'est une échelle ELO
+
+30 kyu (30k) --> 29 kyu (29k) ... 20 kyu (20k) ... 2 kyu (2k) --> 1 kyu (1k) --> 1 dan (1d) --> 2 dan (2d) ... 8 dan (8d) --> 9 dan (9d)
+
+Une échelle à part entière pour les professionelles
+
+1 dan pro (1p) --> 2 dan pro (2p) ..... 9 dan pro (9p)
+
 Statistiques sur le nombre de joueurs ? Et Classement ? Comment gagner avec 9 pierres de handicap ?
 
 stratégie appliquée à l'entreprise:
