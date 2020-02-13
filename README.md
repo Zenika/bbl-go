@@ -73,6 +73,9 @@ point vital
 
 3 methodes de capture : shicho, geta, double atari
 
+geta:
+[geta](http://goban.co/boards/425)
+
 handicap
 
 "live coding"
