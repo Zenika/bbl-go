@@ -71,12 +71,14 @@ L'apprentissage du Go est complexe et la transmission du savoir se passe par pro
 
 point vital
 
-3 methodes de capture : shicho, geta, double atari
+### 3 methodes de capture : shicho, geta, double atari
 
-geta:
+* geta:
 [goban](http://goban.co/boards/425)
-shicho:
+* shicho:
 [goban](http://goban.co/boards/426)
+* double atari
+
 
 handicap
 
