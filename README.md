@@ -5,6 +5,9 @@
 Ce n'est pas un jeu où l'on cherche à tuer l'adversaire, mais juste à se partager le goban et en avoir un peu mieux
 
 breve histoire
+
+Le jeu de Go a probablement été créé en Chine pendant la période des Printemps et Automnes (771-453 av. J.-C.). Plus tard, Confucius (551-479 av. J.-C.) mentionne le go dans ses Entretiens.
+
 [famous go games](https://senseis.xmp.net/?FamousGoGames) 
 * [atomic bomb game](https://senseis.xmp.net/?AtomicBombGame)
 
