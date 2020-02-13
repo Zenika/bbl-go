@@ -1,14 +1,20 @@
 # bbl-go
 
-## Ecosystème / histoire
+## Histoire
 
 ![/resources/Go_game.jpg](resources/Go_game.jpg)
 
 Ce n'est pas un jeu où l'on cherche à tuer l'adversaire, mais juste à se partager le goban et en avoir un peu mieux
 
-breve histoire
+### Un jeu millénaire
 
 Le jeu de Go a probablement été créé en Chine pendant la période des Printemps et Automnes (771-453 av. J.-C.). Plus tard, Confucius (551-479 av. J.-C.) mentionne le go dans ses Entretiens.
+
+Début du 3eme siècle, le go est alors ajouté aux trois « arts sacrés » (peinture, musique et calligraphie) pratiqués par l'empereur et ses courtisans, pour devenir l'un des « quatre arts du lettré ». Il conserve ce statut jusqu'à la fin du 19eme siècle.
+
+### Arrivée du jeu au Japon
+
+La pratique du go se généralisera parmi les samouraïs comme entraînement à la stratégie militaire. À Kyoto, les moines nichirens (secte bouddhiste japonaise) seront les fondateurs de la maison Hon'inbō, la première grande école de go, qui demeurera ouverte jusqu'en 1940.
 
 [famous go games](https://senseis.xmp.net/?FamousGoGames) 
 * [atomic bomb game](https://senseis.xmp.net/?AtomicBombGame)
