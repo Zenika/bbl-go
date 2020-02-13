@@ -2,6 +2,8 @@
 
 ## Ecosystème / histoire
 
+![/resources/Go_game.jpg](resources/Go_game.jpg)
+
 Ce n'est pas un jeu où l'on cherche à tuer l'adversaire, mais juste à se partager le goban et en avoir un peu mieux
 
 breve histoire
