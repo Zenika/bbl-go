@@ -22,7 +22,10 @@ softpower en Asie
 ![/resources/alphago-2.png](resources/alphago-2.png)
 
 ### Le graal de l'IA
-AlphaGo
+
+Au delà de la combinatoire, le go est le jeu qui a le plus longtemps résisté à l'IA car l'évaluation du plateau de jeu est très complexe et peut changer à chaque coup.
+Avant l'arrivé d'AlphaGo, la meilleure IA ne pouvait battre un bon amateur. Très rapidement AlphaGo a lui balayé le champion du monde.
+Il faut dire qu'il est difficile pour un humain d'assimiler des millions de parties comme AlphaGo l'a fait
 
 ### Ecart de niveau unique en son genre
 Si l'on créé des groupes de niveaux pour tous les joueurs du monde selon ces deux règles:
