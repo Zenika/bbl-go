@@ -78,6 +78,7 @@ point vital
 * shicho:
 [goban](http://goban.co/boards/426)
 * double atari
+[goban](http://goban.co/boards/427)
 
 
 handicap
