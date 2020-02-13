@@ -28,8 +28,14 @@ AlphaGo
 Si l'on créé des groupes de niveaux pour tous les joueurs du monde selon ces deux règles:
 * Un membre du groupe N gagne à 80% contre un joueur du groupe N-1
 * Un membre du groupe N gagne à 20% contre un joueur du groupe N+1
-32 échelles de niveaux
 
+le jeu de dame aurait 8 groupes
+
+le jeu d'échec aurait 16 groupes
+
+le jeu de go aurait 32 groupes
+
+### statistiques
 Statistiques sur le nombre de joueurs ? Et Classement ? Comment gagner avec 9 pierres de handicap ?
 
 stratégie appliquée à l'entreprise:
