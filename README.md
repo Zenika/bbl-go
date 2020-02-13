@@ -36,6 +36,11 @@ le jeu d'échec aurait 16 groupes
 le jeu de go aurait 32 groupes
 
 ### statistiques
+
+En France en 2013: 113 clubs et 1416 licenciés. On estime à 11000 le nombre de joueurs ayant eu une licence à la Fédération Française de Go depuis sa création.
+
+On évalue à 60 millions de joueur dont 20 millions en Chine
+
 Statistiques sur le nombre de joueurs ? Et Classement ? Comment gagner avec 9 pierres de handicap ?
 
 stratégie appliquée à l'entreprise:
