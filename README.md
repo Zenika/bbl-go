@@ -13,12 +13,15 @@ softpower en Asie
 
 ## Unique
 
+### combinatoire unique
 10⁴⁷ -> échec
 
 10⁸⁰  -> atomes dans l'univers connu
 
 10¹⁷⁰  -> nombre de jeu possible au go
+![/resources/alphago-2.png](resources/alphago-2.png)
 
+### le graal de l'IA
 AlphaGo
 
 32 échelles de niveaux
