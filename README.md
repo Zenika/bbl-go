@@ -45,7 +45,7 @@ On évalue à 60 millions de joueur dont 20 millions en Chine
 
 C'est une échelle ELO
 
-30 kyu (30k) --> 29 kyu (29k) ... 20 kyu (20k) ... 2 kyu (2k) --> 1 kyu (1k) --> 1 dan (1d) --> 2 dan (2d) ... 8 dan (8d) --> 9 dan (9d)
+30 kyu (30k) --> 29 kyu (29k) ... 2 kyu (2k) --> 1 kyu (1k) --> 1 dan (1d) --> 2 dan (2d) ... 8 dan (8d) --> 9 dan (9d)
 
 Une échelle à part entière pour les professionelles
 
