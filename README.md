@@ -24,6 +24,10 @@ softpower en Asie
 ### le graal de l'IA
 AlphaGo
 
+### écrat de niveau unique en son genre
+Si l'on créé des groupes de niveaux pour tous les joueurs du monde selon ces deux règles:
+* Un membre du groupe N gagne à 80% contre un joueur du groupe N-1
+* Un membre du groupe N gagne à 20% contre un joueur du groupe N+1
 32 échelles de niveaux
 
 Statistiques sur le nombre de joueurs ? Et Classement ? Comment gagner avec 9 pierres de handicap ?
