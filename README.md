@@ -2,9 +2,9 @@
 
 ## Histoire
 
-![/resources/Go_game.jpg](resources/Go_game.jpg)
-
 Ce n'est pas un jeu où l'on cherche à tuer l'adversaire, mais juste à se partager le goban et en avoir un peu mieux
+
+![/resources/Go_game.jpg](resources/Go_game.jpg)
 
 ### Un jeu millénaire
 
@@ -15,6 +15,28 @@ Début du 3eme siècle, le go est alors ajouté aux trois « arts sacrés » (pe
 ### Arrivée du jeu au Japon
 
 La pratique du go se généralisera parmi les samouraïs comme entraînement à la stratégie militaire. À Kyoto, les moines nichirens (secte bouddhiste japonaise) seront les fondateurs de la maison Hon'inbō, la première grande école de go, qui demeurera ouverte jusqu'en 1940.
+
+### Âge d'or du go
+
+Cela commence dès la seconde moitié du 16eme siècle. Avec l'unification du Japon par Tokugawa Ieyasu en 1603, le go, soutenu par les militaires et le shogunat Tokugawa, entre dans sa période classique et connaît un développement ininterrompu, qui dure plus de deux siècles et demi. Grâce à la protection du shogun, le go acquiert un statut officiel et devient une institution gouvernementale.
+
+L'installation de ce système professionnel et la lutte pour les meilleurs titres conduit à une élévation considérable du niveau du jeu japonais, certains joueurs célèbres révolutionnant à eux seuls la théorie du jeu. Ce fut en particulier le cas des deux plus grands joueurs de cette période, Hon'inbō Dōsaku et Hon'inbō Shūsaku, qui furent tous deux nommés Kisei (« saint du go »).
+
+### Seconde Guerre mondiale
+
+Le go continua son chemin malgré toutes les difficultés inhérentes à la Seconde Guerre mondiale. Une anecdote illustre bien la rage de jouer des professionnels du go.
+
+Au printemps 1945, Iwamoto Kaoru devint challenger d'Hashimoto Utaro dans le prestigieux tournoi d’Honinbō. Jouer à Tokyo étant impensable après les terribles bombardements de mars 1945, il fut décidé que le match se déroulerait durant l'été à Hiroshima. Les adversaires tombèrent d'accord pour disputer la seconde partie du 4 au 6 août à Itsukaichi, dans la banlieue d'Hiroshima.
+
+Au troisième jour du match, les joueurs faisaient une pause dans le jardin, lorsqu'ils aperçurent une explosion fulgurante suivie par la formation d'un gigantesque « champignon » et par un coup de vent violent qui brisa les fenêtres et renversa les meubles et la table de jeu. Comme ils en étaient au yose (fin de partie après les combats), ils replacèrent la position et terminèrent la partie, qui se finit par une victoire de Hashimoto avec cinq points d'avance. Ce ne fut que plus tard dans la journée, en voyant arriver les rescapés de la première bombe atomique, que les joueurs comprirent la tragédie à laquelle ils avaient miraculeusement échappé.
+
+La confrontation se termina par un résultat nul (3-3) en novembre 1945, durant l'occupation américaine, après la reddition du Japon.
+
+### Go moderne
+
+Après la Seconde Guerre mondiale, le go se développe sous l'impulsion de la fédération japonaise (Nihon Ki-in). En Chine, où il végétait depuis des siècles, le go, après avoir surmonté la crise de la Révolution culturelle, connaît un renouveau spectaculaire depuis les années 1980 et un développement sans précédent. Dans les années 1990, c'est au tour de la Corée d'entrer en scène avec de très forts joueurs, comme Lee Chang-ho, considéré alors comme le meilleur joueur du monde. À travers le go, les trois pays de l'Asie de l'Est ont trouvé une nouvelle occasion – pacifique – de vider leurs querelles historiques.
+
+En Europe, au milieu des années 2010, le plus fort joueur professionnel est Fan Hui, Chinois arrivé en France en 2000 et naturalisé français en 2013. Aujourd'hui, on compte plus de quarante millions de joueurs, dont un million d'Européens.
 
 [famous go games](https://senseis.xmp.net/?FamousGoGames) 
 * [atomic bomb game](https://senseis.xmp.net/?AtomicBombGame)
