@@ -47,7 +47,7 @@ On évalue à 60 millions de joueur dont 20 millions en Chine
 
 30 kyu (30k) --> 29 kyu (29k) ... 2 kyu (2k) --> 1 kyu (1k) --> 1 dan (1d) --> 2 dan (2d) ... 8 dan (8d) --> 9 dan (9d)
 
-* Une échelle à part entière pour les professionelles basé sur le mérite
+* Une échelle à part entière pour les professionelles basée sur le mérite
 
 1 dan pro (1p) --> 2 dan pro (2p) ..... 9 dan pro (9p)
 
