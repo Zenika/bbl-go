@@ -35,13 +35,7 @@ trouver qq proverbes parlant: l'apprentissage du Go est complexe et la transmiss
 
 ## Règle 
 
-http://jeudego.org/_php/regleGo.php
-
-liberté
-
-atari
-
-2 yeux
+[règles du jeu](http://jeudego.org/_php/regleGo.php)
 
 point vital
 
