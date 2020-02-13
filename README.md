@@ -81,6 +81,8 @@ L'apprentissage du Go est complexe et la transmission du savoir se passe par pro
 ### Handicap
 Le jeu de go permet d'équilibrer une partie entre deux joueurs de niveau très différents sans dénaturé le jeu en donnant des pierres d'avance au joueur le plus faible, l'écart peut aller jusqu'à 9 pierres d'avance
 
+![go board](/resources/handicap_go.png)
+
 ### "live coding"
 * [easy capture](https://tsumego-hero.com/sets/view/117)
 * [easy life](https://tsumego-hero.com/sets/view/104)
