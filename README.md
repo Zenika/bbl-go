@@ -51,14 +51,16 @@ Une échelle à part entière pour les professionelles
 
 1 dan pro (1p) --> 2 dan pro (2p) ..... 9 dan pro (9p)
 
-Statistiques sur le nombre de joueurs ? Et Classement ? Comment gagner avec 9 pierres de handicap ?
+### Application du Go au monde de l'entreprise et la diplomatie 
+
+l'art de la guerre de Sun Tzu
 
 stratégie appliquée à l'entreprise:
 ref: https://fas.org/man/eprint/lai.pdf
 
 ### proverbes
 
-trouver qq proverbes parlant: l'apprentissage du Go est complexe et la transmission du savoir se passe par proverbe:
+L'apprentissage du Go est complexe et la transmission du savoir se passe par proverbe:
 * Le coin est en or, le bord en argent, le centre est un jardin public
 * Le point vital de mon ennemi est mon point vital 
 * Si vous attaquez votre adversaire, surveillez vos arrières
